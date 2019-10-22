@@ -558,4 +558,5 @@ git remote add 名称 地址 //给地址取别名
 git push -u origin master  //-u的参数让git记录信息，下次只需要 git push 就能进行提交
 ssh-keygen  //生成一对密钥
 ```
+over
 
